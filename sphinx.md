@@ -14,7 +14,7 @@ sys.path.insert(0, os.path.abspath('../Материнская_Папка/Пап�
 ```
 extensions = [
 	'sphinx.ext.autodoc',
-	'sphinx.ext.autodoc',
+	'sphinx.ext.codeview',
 	'sphinx.ext.napoleon'
 ]
 ```
@@ -25,7 +25,7 @@ html_theme = 'sphinx_rtd_theme'
 ```
 далее выполняем в терминале следующую 
 ```
-sphinx-apidoc -o source/ Имя_Проекта/
+sphinx-apidoc -o source/ Имя_Папки_Проекта/
 ```
 и в конце прописываем команду
 ```
