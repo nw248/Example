@@ -12,7 +12,7 @@ sphinx-quickstart
 ```
 import os
 import sys
-sys.path.insert(0, os.path.abspath('../Материнская_Папка/Папка_с_Проектом'))
+sys.path.insert(0, os.path.abspath('../Папка_с_Проектом'))
 ```
 добавляем расширения в extensions
 ```
