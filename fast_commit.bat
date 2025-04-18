@@ -8,7 +8,7 @@ set "script_dir=%~dp0"
 cd /d "%script_dir%"
 
 git add .
-git commit -m "fast commit (DOC)"
+git commit -m "ДОК-ВО ПО РАБОТЕ С ПРОГАМИ"
 git push origin DOC
 
 endlocal
