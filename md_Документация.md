@@ -21,4 +21,4 @@
 ```
 #### [РАЗРАБЫ ОСНОВНОГО ПРОЕКТА](https://github.com/Alexandr1810/HostelComfort)
 #### Заменив ссылку на сайт ссылкой на фото будет выведенно это фото
-#### [](https://avatars.mds.yandex.net/i?id=4d0e2edf9a1f8de64a03bf25ac93a071_l-5296622-images-thumbs&n=13)
+#### [](https://images.app.goo.gl/2ZPTu5suRRSytrPf9)
