@@ -20,5 +20,3 @@
 [РАЗРАБЫ ОСНОВНОГО ПРОЕКТА](https://github.com/Alexandr1810/HostelComfort)
 ```
 #### [РАЗРАБЫ ОСНОВНОГО ПРОЕКТА](https://github.com/Alexandr1810/HostelComfort)
-#### Заменив ссылку на сайт ссылкой на фото будет выведенно это фото
-#### [https://images.app.goo.gl/2ZPTu5suRRSytrPf9](https://images.app.goo.gl/2ZPTu5suRRSytrPf9)
