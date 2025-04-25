@@ -1,6 +1,8 @@
 @echo off
 setlocal
 
+chcp 65001
+
 :: Получаем путь к директории, где находится этот .bat файл
 set "script_dir=%~dp0"
 
